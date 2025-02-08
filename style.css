@@ -111,7 +111,7 @@ header .header-info {
     position: fixed;
     top: 20px;
     right: 20px;
-    background-color: var(--color-secundario);
+    background-color: var(--color-terciario);
     width: 60px;
     height: 60px;
     border-radius: 50%;
